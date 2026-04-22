@@ -1,5 +1,5 @@
 # Task Tracker CLI (Python)
-Sample solution for the task-tracker challenge from roadmap.sh.
+https://roadmap.sh/projects/task-tracker
 
 A command-line task management application built using Python.
 It allows users to create, update, delete, and track tasks directly from the terminal, with persistent storage using a JSON file.
